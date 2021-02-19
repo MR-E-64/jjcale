@@ -1,0 +1,49 @@
+/* Color Theme Swatches in Hex */
+.Desert-1-hex { color: #05C7F2; }
+.Desert-2-hex { color: #D9863D; }
+.Desert-3-hex { color: #BF4D34; }
+.Desert-4-hex { color: #8C322A; }
+.Desert-5-hex { color: #F7DCAF; }
+
+header{
+    background-color: #F7DCAF ;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Taviraj', serif;
+    padding: 2%;
+    font-size: relative;
+
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Taviraj', serif;
+    font-size: relative;
+    color: #8C322A;
+}
+
+
+ul{
+    color:#BF4D34;
+}
+
+li{
+    text-align: center;
+}
+
+.h1_Unoffical{
+    font-size: 50%;
+}
+
+h3 {
+    color: #05C7F2;
+    font-family: 'Taviraj', serif;
+}
+
+p {
+    font-family: serif; 
+    max-width: 120ch;
+    
+}
